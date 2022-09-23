@@ -1,2 +1,1 @@
-# GitHubLearning
-Used to learning GitHub.
+修改本文件，使大家更容易理解本项目。
